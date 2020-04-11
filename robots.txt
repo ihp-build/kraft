@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Sitemap: https://xn----7sbkiv2ajrr.xn--p1ai/sitemap.xml
+Host: https://xn----7sbkiv2ajrr.xn--p1ai
