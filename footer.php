@@ -25,9 +25,9 @@
 	 			</div>
 
 	 			<div class="footer-column">
-	 				<a href="#" title="Услуги">Услуги</a><br />
-	 				<a href="#" title="Политика конфиденциальности">Политика конфиденциальности</a><br />
-	 				<a href="#" title="Пользовательское соглашение">Пользовательское соглашение</a><br />
+	 				<a href="/uslugi/" title="Услуги">Услуги</a><br />
+	 				<a href="/privacy/" title="Политика конфиденциальности">Политика конфиденциальности</a><br />
+	 				<a href="/agreement/" title="Пользовательское соглашение">Пользовательское соглашение</a><br />
 
 	 				<br />
 	 				<div class="footer-address">
@@ -85,7 +85,7 @@
 	<script type="text/javascript" src="/js/easing.js"></script>
 
 	
-	<script src="/js/main.js?ver=0.002"></script>
+	<script src="/js/main.js?ver=0.003"></script>
 
 
 	<!-- Yandex.Metrika counter -->

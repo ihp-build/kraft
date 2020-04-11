@@ -1,11 +1,11 @@
 html {
-	background: #fdd5a5 url("/img/kraft_body_left.png") repeat-y;
+	background: #fdd5a5 url("/img/kraft_body_left-min.png") repeat-y;
 	background-size: 100px;
 	font-family: 'Roboto', sans-serif;
 }
 
 body {
-	background: url("/img/kraft_body_right.png") repeat-y 100% 0;
+	background: url("/img/kraft_body_right-min.png") repeat-y 100% 0;
 	background-size: 100px;
 	height: 100%;
 	width: 100%;
@@ -50,18 +50,6 @@ footer {
 p {
 	margin: 0;
 }
-
-.kraft-container {
-	max-width: 1000px;
-	margin: 0 auto;
-	padding-left: 100px;
-	padding-right: 100px;
-}
-
-.wrapper {
-	border: 1px dashed;
-}
-
 
 
 
@@ -336,7 +324,61 @@ p {
 }
 
 
+/* PAGES */
 
+.kraft-container {
+	max-width: 1000px;
+	margin: 0 auto;
+	padding-left: 100px;
+	padding-right: 100px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.wrapper {
+	border: 3px solid #7e4d20;
+}
+
+
+.inner-page-content {
+	background: #000000 url(/img/content-background-picture-min.jpg);
+    background-repeat: no-repeat;
+    background-attachment: unset;
+    background-position: center;
+    background-size: cover;
+
+    position: relative;
+
+    color: #fff;
+    font-weight: 300;
+}
+
+.inner-page-overlay {
+	position: absolute;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.7) url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAGUlEQVQIW2NkwAIYCQn+Z2BgACsiqBJuEgA0oAEG+FuXFQAAAABJRU5ErkJggg==);
+    width: 100%;
+}
+
+.inner-page-text {
+	padding: 50px;
+	padding-top: 20px;
+	z-index: 3;
+	position: relative;
+
+	text-indent: 1.5em; /* Отступ первой строки */
+    text-align: justify;
+}
+
+.inner-page-text h1 {
+	margin: 0px;
+	font-size: 30px;
+	padding-bottom: 20px;
+}
+
+.inner-page-text a {
+	color: #ff7a00;
+}
 
 
 /* SPECIAL ELEMENTS */
