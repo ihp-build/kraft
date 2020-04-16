@@ -85,7 +85,9 @@
 	<script type="text/javascript" src="/js/easing.js"></script>
 
 	
-	<script src="/js/main.js?ver=0.003"></script>
+	<script src="/js/main.js?ver=0.004"></script>
+
+	<script src="/js/owlcarousel/owl.carousel.min.js"></script>
 
 
 	<!-- Yandex.Metrika counter -->
