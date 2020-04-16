@@ -14,8 +14,13 @@
 	<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
 
 	
-	<link rel="stylesheet" href="/css/custom.css?ver=0.003" type="text/css" />
+	<!-- Slider -->
+	<link rel="stylesheet" href="/css/owlcarousel/owl.carousel.min.css">
+	<link rel="stylesheet" href="/css/owlcarousel/owl.theme.default.min.css">
 	
+
+	<link rel="stylesheet" href="/css/custom.css?ver=0.005" type="text/css" />
+
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 
 	<!-- Document Title and Search Engine elements
@@ -36,7 +41,7 @@
 	<meta property="og:title" content="<?=$title?>">
 	<meta property="og:type" content="website">
 	<meta property="og:url" content="https://xn----7sbkiv2ajrr.xn--p1ai<?=$_SERVER['PHP_SELF']?>">
-	<meta property="og:image" content="https://xn----7sbkiv2ajrr.xn--p1ai/img/kraft_clear_logo.png">
+	<meta property="og:image" content="https://xn----7sbkiv2ajrr.xn--p1ai/img/kraft_clear_logo-min.png">
 	<meta property="og:image:type" content="image/jpg">
 	<meta property="og:site_name" content="Автоматические ворота двери рольставни Георгиевск - продажа и установка">
 	<meta property="og:description" content="Продажа и установка - автоматические ворота, двери, рольставни в Георгиевске. Каталог продукции и стоимость услуг. КавМинВоды">
