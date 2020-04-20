@@ -1004,4 +1004,8 @@ p {
 	.slider_item_3 {
 		height: 300px;
 	}
+
+	.slider_item a h1 {
+		font-size: 30px;
+	}
 }
