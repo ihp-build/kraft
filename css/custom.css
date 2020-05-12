@@ -606,6 +606,80 @@ p {
 
 
 
+
+/* Menu */
+
+.main-menu-container {
+	max-width: 1000px;
+	margin: 0 auto;
+	padding-left: 100px;
+	padding-right: 100px;
+	padding-top: 20px;
+}
+
+.main-menu-container .main-menu {
+	vertical-align: middle;
+    display: flex;
+    width: 100%;
+    background: #7e4d20;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    text-align: center;
+}
+
+.main-menu-container .main-menu .main-menu-element {
+	flex: 1;
+	border-right: 1px solid #fdd5a5;
+}
+
+.main-menu-container .main-menu .main-menu-element:last-child {
+	border-right: none;
+}
+
+.main-menu-container .main-menu .main-menu-element:hover {
+	background: #ff7a00;
+	-webkit-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+
+.main-menu-container .main-menu .main-menu-element:first-child:hover {
+	border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.main-menu-container .main-menu .main-menu-element:last-child:hover {
+	border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.main-menu-container .main-menu .main-menu-element a {
+	display: block;
+	color: #fff;
+    font-weight: 300;
+    font-size: 16px;
+    text-decoration: none;
+	padding-top: 10px;
+	padding-bottom: 14px;
+	text-shadow: 2px 2px 3px #000, 0px 0px 3px #000;
+}
+
+.main-menu-container .main-menu .main-menu-element a:hover {
+	
+}
+
+.main-menu-container .main-menu .main-menu-element a span:hover {
+	
+}
+
+/* Menu END */
+
+
+
+
+
+
 /* CSS Animations */
 .hatch{
 	animation-name: hatch;
@@ -909,6 +983,31 @@ p {
 
 /* MEDIA */
 
+@media only screen and (max-width: 700px) {
+	.main-menu-container .main-menu {
+		display: block;
+	}
+
+	.main-menu-container .main-menu .main-menu-element {
+		border-bottom: 1px solid #fdd5a5;
+		border-right: none;
+
+		border-top-left-radius: 0px;
+	    border-bottom-left-radius: 0px;
+	    border-top-right-radius: 0px;
+	    border-bottom-right-radius: 0px;
+	}
+	.main-menu-container .main-menu .main-menu-element:last-child {
+		border-bottom: none;
+	}
+	.main-menu-container .main-menu {
+		border-top-left-radius: 0px;
+	    border-bottom-left-radius: 0px;
+	    border-top-right-radius: 0px;
+	    border-bottom-right-radius: 0px;
+	}
+}
+
 @media only screen and (max-width: 1040px) {
 	html {
 		background-size: 20px;
@@ -929,6 +1028,11 @@ p {
 	}
 
 	.kraft-container {
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+
+	.main-menu-container {
 		padding-left: 20px;
 		padding-right: 20px;
 	}

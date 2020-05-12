@@ -10,7 +10,7 @@
 	 		<div class="footer-content">
 	 			
 	 			<div class="footer-column">
-	 				<a href="#" title="Каталог">Каталог</a><br /><br />
+	 				<a href="#" title="Каталог продукции">Каталог</a><br /><br />
 	 				
 	 				<a href="#" title="Секционные ворота">Секционные ворота</a><br />
 	 				<a href="#" title="Роллетные системы">Роллетные системы</a><br />
@@ -65,7 +65,7 @@
 
 	 			<div class="footer-column footer-column-right">
 	 				<div class="instagram">
-	 					<a href="https://www.instagram.com/vitali_bell/" title="КРАФТ Instagram" target="_blank"><img src="/img/svg/insta.svg" alt="КРАФТ Instagram" /></a>
+	 					<a href="https://www.instagram.com/kraft_rus/" title="КРАФТ Instagram" target="_blank"><img src="/img/svg/insta.svg" alt="КРАФТ Instagram" /></a>
 	 				</div>
 
 	 				<div class="copyright">© «КРАФТ» 2020</div>
@@ -85,7 +85,7 @@
 	<script type="text/javascript" src="/js/easing.js"></script>
 
 	
-	<script src="/js/main.js?ver=0.004"></script>
+	<script src="/js/main.js?ver=0.005"></script>
 
 	<script src="/js/owlcarousel/owl.carousel.min.js"></script>
 

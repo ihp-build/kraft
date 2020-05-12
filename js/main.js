@@ -37,3 +37,13 @@ $(window).on('load', function() {
 		});
 	});
 });
+
+
+// Плавный скролл на якоря
+$(document).ready(function() {
+	$('a[href^="#"]').click(function(){
+		var target = $(this).attr('href');
+		$('html, body').animate({scrollTop: $(target).offset().top}, 1500);
+		return false;
+	});
+});

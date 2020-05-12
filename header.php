@@ -19,15 +19,15 @@
 	<link rel="stylesheet" href="/css/owlcarousel/owl.theme.default.min.css">
 	
 
-	<link rel="stylesheet" href="/css/custom.css?ver=0.005" type="text/css" />
+	<link rel="stylesheet" href="/css/custom.css?ver=0.006" type="text/css" />
 
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 
 	<!-- Document Title and Search Engine elements
 	============================================= -->
 
-	<meta name="keywords" content="въездные ворота, роллетные ворота, секционные ворота Георгиевск, рольставни, рольставни георгиевск, роллеты, рольставни цена, автоматические ворота георгиевск, автоматические ворота рольставни КМВ">
-	<meta name="description" content="Продажа и установка - автоматические ворота, двери, рольставни в Георгиевске. Каталог продукции и стоимость услуг. КавМинВоды">
+	<meta name="keywords" content="рольставни, роллеты, рольставни георгиевск, рольставни купить, рольставни цена, роллеты георгиевск, роллеты купить, роллеты цена, рольставни +на окна, рольставни +в туалет, рольставни размеры цена, рольставни наружные, заказать рольставни, рольставни +на окна цена, рольставни +на окна наружные, рольставни +с электроприводом, рольставни купить цена, рольставни автоматические, рольставни стоимость, рольставни +от производителя">
+	<meta name="description" content="Продажа и установка - автоматические ворота, двери, рольставни в Георгиевске. Профессиональный подбор, монтаж, обслуживание рольставень. Официальный представитель ГК Алютех.">
 
 	<title><?=$title?></title>
 
@@ -102,7 +102,7 @@
 			</div>
 
 			<div class="header-block logo">
-				<a class="kraft_logo <? if ($_SERVER['PHP_SELF'] == '/index.php') { echo 'href-off'; }?>" href="/"><img class="" src="/img/kraft_clear_logo-min.png" alt="Автоматические ворота двери рольставни Георгиевск" /></a>
+				<a class="kraft_logo <? if ($_SERVER['PHP_SELF'] == '/index.php') { echo 'href-off'; }?>" href="/" title="На главную"><img class="" src="/img/kraft_clear_logo-min.png" alt="Автоматические ворота двери рольставни Георгиевск" /></a>
 			</div>
 
 			<div class="header-block">
@@ -114,3 +114,21 @@
 
 		</div>
 	</header>
+
+
+	<div class="main-menu-container">
+		<div class="main-menu">
+			<div class="main-menu-element">
+				<a href="#" title="Каталог продукции"><span>Каталог продукции</span></a>
+			</div>
+			<div class="main-menu-element">
+				<a href="#" title="О компании"><span>О компании</span></a>
+			</div>
+			<div class="main-menu-element">
+				<a href="#alutech-calc" title="Калькулятор"><span>Калькулятор</span></a>
+			</div>
+			<div class="main-menu-element">
+				<a href="/uslugi/" title="Услуги"><span>Услуги</span></a>
+			</div>
+		</div>
+	</div>
