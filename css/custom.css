@@ -376,9 +376,77 @@ p {
 	padding-bottom: 20px;
 }
 
+.inner-page-text h1,h2,h3,h4,h5 {
+	text-align: left;
+}
+
 .inner-page-text a {
 	color: #ff7a00;
 }
+
+.assortiment-list ul {
+	padding-left: 0px;
+}
+
+.inner-page-text .about-alutech {
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+.service-list{
+	display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    justify-content: center;
+}
+.service-list .service-item{
+	flex: 1;
+	width: 100%;
+	max-width: 280px;
+	display: inline-block;
+	margin: 1%;
+	background: #7e4d20;
+	border-radius: 5px;
+	text-indent: 0;
+	max-width: 280px;
+	width: 100%;
+}
+.service-list .service-item img{
+	max-width: 280px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.service-list .service-item a {
+	color: #fff;
+	text-align: center;
+	text-decoration: none;
+	width: 100%;
+	display: block;
+}
+.service-item-name {
+	width: 100%;
+	vertical-align: middle;
+	text-align: center;
+	width: 100%;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	font-size: 16px;
+	font-weight: 300;
+}
+
+
+
+
+
+
 
 
 /* SPECIAL ELEMENTS */
@@ -1054,6 +1122,11 @@ p {
 	.wrapper {
 		border-left: none;
 		border-right: none;
+	}
+
+	.inner-page-text {
+		padding-left: 10px;
+		padding-right: 10px;
 	}
 
 }

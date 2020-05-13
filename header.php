@@ -122,7 +122,7 @@
 				<a href="#" title="Каталог продукции"><span>Каталог продукции</span></a>
 			</div>
 			<div class="main-menu-element">
-				<a href="#" title="О компании"><span>О компании</span></a>
+				<a href="/about/" title="О компании КРАФТ"><span>О компании</span></a>
 			</div>
 			<div class="main-menu-element">
 				<a href="#alutech-calc" title="Калькулятор"><span>Калькулятор</span></a>
