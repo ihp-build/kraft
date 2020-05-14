@@ -85,7 +85,7 @@
 	<script type="text/javascript" src="/js/easing.js"></script>
 
 	
-	<script src="/js/main.js?ver=0.005"></script>
+	<script src="/js/main.js?ver=0.006"></script>
 
 	<script src="/js/owlcarousel/owl.carousel.min.js"></script>
 

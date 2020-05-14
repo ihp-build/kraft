@@ -19,7 +19,7 @@
 	<link rel="stylesheet" href="/css/owlcarousel/owl.theme.default.min.css">
 	
 
-	<link rel="stylesheet" href="/css/custom.css?ver=0.006" type="text/css" />
+	<link rel="stylesheet" href="/css/custom.css?ver=0.007" type="text/css" />
 
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 

@@ -416,8 +416,6 @@ p {
 	background: #7e4d20;
 	border-radius: 5px;
 	text-indent: 0;
-	max-width: 280px;
-	width: 100%;
 }
 .service-list .service-item img{
 	max-width: 280px;
@@ -445,6 +443,33 @@ p {
 
 
 
+.about-fasad {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+
+    text-indent: 0;
+}
+
+.about-fasad-element {
+	flex: 1;
+	width: 100%;
+	max-width: 280px;
+	margin: 1%;
+}
+
+.about-fasad-element a {
+	display: block;
+	width: 100%;
+}
+
+.about-fasad-element img {
+	max-width: 280px;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
 
 
 
