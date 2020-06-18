@@ -200,6 +200,11 @@ p {
 	position: absolute;
 }
 
+.worktime > svg:not([class]){
+	fill: #ff7a00;
+	position: absolute;
+}
+
 .footer-address a {
 	margin-left: 30px;
 }
@@ -262,6 +267,15 @@ p {
 	border-bottom: none;
 }
 
+.footer-column span {
+	font-weight: 300;
+}
+
+.footer-column .footer-about-span {
+	padding-left: 20px;
+	padding-right: 15px;
+}
+
 .footer-column {
 	flex: 1;
 	padding-top: 20px;
@@ -271,6 +285,11 @@ p {
 
 .footer-column-right {
 	position: relative;
+}
+
+.footer-column-right .worktime span {
+	font-size: 14px;
+	margin-left: 30px;
 }
 
 .footer-column:first-child a:first-child {
@@ -1176,10 +1195,13 @@ p {
 	.footer-column {
 		flex: inherit;
 		text-align: center;
+		padding-left: 2px;
+		padding-right: 2px;
 	}
 
 	.footer-column-right {
 		position: inherit;
+		padding-top: 0px;
 	}
 
 	.copyright {
@@ -1193,6 +1215,7 @@ p {
 		position: inherit;
 		right: inherit;
 		bottom: inherit;
+		padding-top: 15px;
 	}
 
 	.slider_item_1 {

@@ -20,12 +20,14 @@
 	 					<span class="">Принимаем к оплате:</span>
 		 				<img width="75" height="15" src="/img/svg/Visa_Inc_logo.svg" alt="VISA" title="VISA">
 						<img width="75" height="15" src="/img/svg/Mir-logo.svg" alt="МИР" title="МИР">
-						<img width="75" height="15" src="/img/svg/mc_vrt_pos.svg" alt="MasterCard" title="MasterCard">
+						<img width="75" height="15" src="/img/svg/mc_symbol.svg" alt="MasterCard" title="MasterCard">
 					</div>
 	 			</div>
 
 	 			<div class="footer-column">
+	 				<a href="/about/" title="О компании КРАФТ">О компании</a><span class="footer-about-span">|</span>
 	 				<a href="/uslugi/" title="Услуги">Услуги</a><br />
+
 	 				<a href="/privacy/" title="Политика конфиденциальности">Политика конфиденциальности</a><br />
 	 				<a href="/agreement/" title="Пользовательское соглашение">Пользовательское соглашение</a><br />
 
@@ -64,6 +66,13 @@
 	 			</div>
 
 	 			<div class="footer-column footer-column-right">
+	 				<div class="worktime">
+	 					<svg width="20" height="20" >
+							<use xlink:href="/img/svg/sprite.svg#icon_time"></use>
+						</svg>
+	 					<span>Режим работы: ПН - ПТ &nbsp; 08:00 - 17:00</span>
+	 				</div>
+
 	 				<div class="instagram">
 	 					<a href="https://www.instagram.com/kraft_rus/" title="КРАФТ Instagram" target="_blank"><img src="/img/svg/insta.svg" alt="КРАФТ Instagram" /></a>
 	 				</div>
@@ -85,7 +94,7 @@
 	<script type="text/javascript" src="/js/easing.js"></script>
 
 	
-	<script src="/js/main.js?ver=0.006"></script>
+	<script src="/js/main.js?ver=0.007"></script>
 
 	<script src="/js/owlcarousel/owl.carousel.min.js"></script>
 

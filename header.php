@@ -19,7 +19,7 @@
 	<link rel="stylesheet" href="/css/owlcarousel/owl.theme.default.min.css">
 	
 
-	<link rel="stylesheet" href="/css/custom.css?ver=0.007" type="text/css" />
+	<link rel="stylesheet" href="/css/custom.css?ver=0.008" type="text/css" />
 
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 
@@ -125,7 +125,7 @@
 				<a href="/about/" title="О компании КРАФТ"><span>О компании</span></a>
 			</div>
 			<div class="main-menu-element">
-				<a href="#alutech-calc" title="Калькулятор"><span>Калькулятор</span></a>
+				<a href="#alutech-calc" title="КАЛЬКУЛЯТОР РАСЧЕТА СТОИМОСТИ ПРОДУКЦИИ ГК «АЛЮТЕХ»"><span>Калькулятор</span></a>
 			</div>
 			<div class="main-menu-element">
 				<a href="/uslugi/" title="Услуги"><span>Услуги</span></a>
