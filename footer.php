@@ -70,7 +70,8 @@
 	 					<svg width="20" height="20" >
 							<use xlink:href="/img/svg/sprite.svg#icon_time"></use>
 						</svg>
-	 					<span>Режим работы: ПН - ПТ &nbsp; 08:00 - 17:00</span>
+	 					<span>Режим работы: ПН - ПТ &nbsp; 09:00 - 18:00</span><br />
+	 					<span>СБ &nbsp; 09:00 - 14:00; &nbsp; ВС - выходной</span>
 	 				</div>
 
 	 				<div class="instagram">
