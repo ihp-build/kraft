@@ -13,21 +13,21 @@
 		  <div class="item">
 		  	<div class="slider_item slider_item_1">
 		  		<div class="slider-overlay"></div>
-		  		<a href="#" title="Секционные ворота"><h1>Секционные ворота</h1></a>
+		  		<a href="/catalog/vorotnye-sistemy/" title="Секционные ворота"><h1>Секционные ворота</h1></a>
 		  	</div>
 		  </div>
 
 		  <div class="item">
 		  	<div class="slider_item slider_item_2">
 		  		<div class="slider-overlay"></div>
-		  		<a href="#" title="Роллетные системы"><h1>Роллетные системы</h1></a>
+		  		<a href="/catalog/rolletnye-sistemy/" title="Роллетные системы"><h1>Роллетные системы</h1></a>
 		  	</div>
 		  </div>
 
 		  <div class="item">
 		  	<div class="slider_item slider_item_3">
 		  		<div class="slider-overlay"></div>
-		  		<a href="#" title="Въездные ворота"><h1>Въездные ворота</h1></a>
+		  		<a href="/catalog/avtomatika-i-shlagbaumy/" title="Автоматика и шлагбаумы"><h1>Автоматика и шлагбаумы</h1></a>
 		  	</div>
 		  </div>
 		 

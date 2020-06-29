@@ -23,51 +23,51 @@
 				<p>Монтаж автоматики для откатных, распашных, гаражных ворот, установка шлагбаума — это далеко не полный список наших услуг. Вы можете позвонить нам и уточнить возможность осуществления работ любой сложности. Нам доверяют сотни клиентов, ведь мы оказываем лучшие услуги по монтажу и наладке.</p><br /><br />
 
 
-				<div class="service-list">
-					<div class="service-item">
+				<div class="plitka-list">
+					<div class="plitka-item">
 						<a href="#" class="href-off">
 							<img src="/img/uslugi/ustanovka_vorot-min.jpg" alt="Установка ворот" title="Установка ворот">
-							<div class="service-item-name">
+							<div class="plitka-item-name">
 								Установка ворот
 							</div>
 						</a>
 					</div>
-						<div class="service-item">
+						<div class="plitka-item">
 						<a href="#" class="href-off">
 							<img src="/img/uslugi/ustanovka_avtomatiki-min.jpg" alt="Установка автоматики" title="Установка автоматики">
-							<div class="service-item-name">
+							<div class="plitka-item-name">
 								Установка автоматики
 							</div>
 						</a>
 					</div>
-						<div class="service-item">
+						<div class="plitka-item">
 						<a href="#" class="href-off">
 							<img src="/img/uslugi/remont-min.jpg" alt="Ремонт" title="Ремонт">
-							<div class="service-item-name">
+							<div class="plitka-item-name">
 								Ремонт
 							</div>
 						</a>
 					</div>
-						<div class="service-item">
+						<div class="plitka-item">
 						<a href="#" class="href-off">
 							<img src="/img/uslugi/servisnoe_obsluzhivanie-min.jpg" alt="Сервисное обслуживание" title="Сервисное обслуживание">
-							<div class="service-item-name">
+							<div class="plitka-item-name">
 								Сервисное обслуживание
 							</div>
 						</a>
 					</div>
-						<div class="service-item">
+						<div class="plitka-item">
 						<a href="#" class="href-off">
 							<img src="/img/uslugi/diagnostika_i_vyezd-min.jpg" alt="Диагностика и выезд" title="Диагностика и выезд">
-							<div class="service-item-name">
+							<div class="plitka-item-name">
 								Диагностика и выезд
 							</div>
 						</a>
 					</div>
-						<div class="service-item">
+						<div class="plitka-item">
 						<a href="#" class="href-off">
 							<img src="/img/uslugi/ustanovka_peregruzochnogo_oborudovaniya-min.jpg" alt="Установка перегрузочного оборудования" title="Установка перегрузочного оборудования">
-							<div class="service-item-name">
+							<div class="plitka-item-name">
 								Установка перегрузочного оборудования
 							</div>
 						</a>

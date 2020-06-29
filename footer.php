@@ -10,11 +10,11 @@
 	 		<div class="footer-content">
 	 			
 	 			<div class="footer-column">
-	 				<a href="#" title="Каталог продукции">Каталог</a><br /><br />
+	 				<a href="/catalog/" title="Каталог продукции">Каталог</a><br /><br />
 	 				
-	 				<a href="#" title="Секционные ворота">Секционные ворота</a><br />
-	 				<a href="#" title="Роллетные системы">Роллетные системы</a><br />
-	 				<a href="#" title="Въездные ворота">Въездные ворота</a><br />
+	 				<a href="/catalog/rolletnye-sistemy/" title="Роллетные системы">Роллетные системы</a><br />
+	 				<a href="/catalog/vorotnye-sistemy/" title="Воротные системы">Воротные системы</a><br />
+	 				<a href="/catalog/avtomatika-i-shlagbaumy/" title="Автоматика и шлагбаумы">Автоматика и шлагбаумы</a><br />
 
 	 				<div class="payment-icons">
 	 					<span class="">Принимаем к оплате:</span>

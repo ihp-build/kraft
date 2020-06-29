@@ -119,7 +119,7 @@
 	<div class="main-menu-container">
 		<div class="main-menu">
 			<div class="main-menu-element">
-				<a href="#" title="Каталог продукции"><span>Каталог продукции</span></a>
+				<a href="/catalog/" title="Каталог продукции"><span>Каталог продукции</span></a>
 			</div>
 			<div class="main-menu-element">
 				<a href="/about/" title="О компании КРАФТ"><span>О компании</span></a>
